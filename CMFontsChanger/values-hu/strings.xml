@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyanogenMod betűtípus-váltó</string>
+    <string name="reboot_title">Újraindítás szükséges</string>
+    <string name="reboot_message">Az új betűk betöltéséhez újraindítás szükséges.</string>
+    <string name="reboot_ok">Újraindítás</string>
+    <string name="reboot_cancel">Mégse</string>
+    <string name="dismiss">Hagyj már...</string>
+    <string name="need_root_message">Nem sikerült átmásolni a fájlokat. Vannak root jogaid?</string>
+    <string name="need_root_title">SU parancs hiba</string>
+    <string name="reboot_failed_title">Hiba az újraindításkor</string>
+    <string name="reboot_failed_message">Nem tudtam újraindulni. Root jogokra van szükség az új betűk betöltéséhez. Kérem, minnél hamarabb indítson újra.</string>
+    <string name="mkdir_failed_title">Hiba</string>
+    <string name="mkdir_failed_message">Nem tudok mappát létrehozni az SD-kártyán</string>
+    <string name="remount_failed_title">Csatolási hiba</string>
+    <string name="remount_failed_message">Nem tudom a /system mappát újracsatolni</string>
+    <string name="menu_apply">Betűtípusok alkalmazása</string>
+    <string name="menu_backup">Betűtípusok biztonsági mentése</string>
+    <string name="menu_restore">Biztonsági mentés visszaállítása</string>
+    <string name="menu_reset">Elérési utak visszaállítása</string>
+    <string name="select_font">Betűtípus kiválasztása</string>
+    <string name="diag_backing_up">Biztonsági mentés folyamatban</string>
+    <string name="toast_backed_up">A biztonsági mentés az /sdcard/Fonts mappában van</string>
+    <string name="diag_applying">Alkalmazás...</string>
+    <string name="toast_applied">A betűtípusokat sikeresen alkalmaztam</string>
+    <string name="diag_restoring">Visszaállítás...</string>
+    <string name="toast_restored">A betűtípusokat visszaállítottam az SD-kártyáról.</string>
+    <string name="diag_copying">Másolás...</string>
+    <string name="diag_rebooting">Újraindítás</string>
+    <string name="please_wait">Még egy pillanat...</string>
+    <string name="context_copy">Elérési út másolása</string>
+    <string name="context_paste">Elérési út beillesztése</string>
+    <string name="context_clear">Elérési út törlése</string>
+</resources>
